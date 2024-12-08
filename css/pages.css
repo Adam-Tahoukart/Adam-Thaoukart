@@ -6,7 +6,7 @@
 }
 
 .siteIcon {
-    background-image: URL('../images/faviconBig.png');
+    background-image: URL('../images/faviconGsp.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -85,7 +85,7 @@
 #header {
     /* entête de page */
     font-size: 18px;
-    background-image: linear-gradient(180deg, rgb(120, 120, 120), lightgray);
+    background-image: linear-gradient(180deg, black, lightgray);
 }
 
 #footer {
@@ -93,7 +93,7 @@
     font-size: 18px;
     height: 40px;
     padding: 8px;
-    background-image: linear-gradient(180deg, lightgray, rgb(120, 120, 120));
+    background-image: linear-gradient(180deg, lightgray, black);
 }
 
 #mainContainer {
